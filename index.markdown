@@ -102,10 +102,10 @@ title: Lizzy Kitty
   <h2>Photo Gallery</h2>
   <div class="gallery-grid">
     <!-- Add your images here -->
-    <img src="/assets/images/Ass.png">
-    <img src="/assets/images/cutee.png" alt="Photo 2">
-    <img src="/assets/images/assass.png" alt="Photo 3">
-    <img src="/assets/images/crosslegg.png">
+    <img src="https://cheshirekittenowo.github.io/LizzyKittyOwO/assets/images/Ass.png">
+    <img src="https://cheshirekittenowo.github.io/LizzyKittyOwO/assets/images/cutee.png" alt="Photo 2">
+    <img src="https://cheshirekittenowo.github.io/LizzyKittyOwO/assets/images/assass.png" alt="Photo 3">
+    <img src="https://cheshirekittenowo.github.io/LizzyKittyOwO/assets/images/crosslegg.png">
   </div>
 </section>
 
