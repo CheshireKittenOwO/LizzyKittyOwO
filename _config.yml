@@ -26,8 +26,8 @@ description: >-
   featured photos and projects. This site brings everything together in one
   cozy, easy-to-navigate space so you can stay connected wherever I am online.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/LizzyKittyOwO" # the subpath of your site, e.g. /blog
+url: "https://cheshirekittenowo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
