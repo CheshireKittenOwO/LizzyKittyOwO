@@ -75,7 +75,13 @@ title: Lizzy Kitty
     object-fit: cover;
   }
 </style>
-
+<meta name="title" content="LizzyKitty — 18+ Creator, Livestreams, Photos & Updates">
+<meta name="description" content="Official site of LizzyKitty, an 18+ transgender creator offering livestream updates, curated galleries, and links to adult platforms. Explore content, stay connected, and follow live status across multiple sites.">
+<meta name="author" content="LizzyKitty">
+<meta property="og:type" content="website"> <meta property="og:title" content="LizzyKitty — 18+ Creator & Livestream Updates">
+<meta property="og:description" content="Explore the official hub for LizzyKitty — an 18+ transgender creator sharing livestream updates, galleries, and platform links.">
+<meta property="og:image" content="{{ site.baseurl }}/assets/img/og-preview.png">
+<meta property="og:url" content="https://cheshirekittenowo.github.io/LizzyKittyOwO/">
 <header>
   <h1>Lizzy Kitty</h1>
   <p>Just a silly kitty ;3</p>
