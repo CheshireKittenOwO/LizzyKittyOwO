@@ -92,8 +92,8 @@ title: Lizzy Kitty
   <a href="https://chaturbate.com/in/?tour=7Bge&campaign=QA7YW&track=default&room=lizzykitty42069">Chaturbate</a>
   <a href="https://fansly.com/LizzyKittyOwO/posts">Fansly</a>
   <a href="https://stripchat.com/LizzyKittyOwO/profile">StripChat</a>
-  <a href="https://www.niteflirt.com/listings/show/14812882-Sexy-roleplays-with-a-hot-trans-woman">Niteflirt Listing 1</a>
-  <a href="https://www.niteflirt.com/listings/show/14814792-Cum-be-a-good-boi-">Niteflirt Listing 2</a>
+  <a href="https://www.niteflirt.com/listings/show/14812882-Sexy-roleplays-with-a-hot-trans-woman">call or message me here</a>
+  <a href="https://www.niteflirt.com/listings/show/14814792-Cum-be-a-good-boi-">Dominatrix Services ;3</a>
   <a href="https://www.niteflirt.com/LizzyKittyTS/packages/265892">Niteflirt Packages</a>
 </section>
 
